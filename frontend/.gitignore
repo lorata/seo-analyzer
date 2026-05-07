@@ -1,0 +1,15 @@
+next/
+.next/
+out/
+dist/
+build/
+node_modules/
+.env.local
+.env.test.local
+.env.production.local
+.DS_Store
+*.log
+.vscode/
+.idea/
+*.swp
+*.swo
